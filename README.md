@@ -1,2 +1,2 @@
-# FinishedBrowser
-My groups sad attempt at making an internet browser
+# Finished Browser
+My group's sad attempt at making an internet browser
